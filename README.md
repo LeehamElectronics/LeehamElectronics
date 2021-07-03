@@ -27,7 +27,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="X Code" width="26px" src="https://user-images.githubusercontent.com/51737378/124351648-e7cd3300-dc3e-11eb-9ae3-0452bec3cd8b.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/51737378/124351613-b8b6c180-dc3e-11eb-8278-f66d5eb20c99.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/51737378/124351596-a2106a80-dc3e-11eb-8bbd-379fe3b3be5a.png" />v
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/51737378/124351596-a2106a80-dc3e-11eb-8bbd-379fe3b3be5a.png" />
 <img align="left" alt="Cisco CLI" width="26px" src="https://user-images.githubusercontent.com/51737378/124351582-8f963100-dc3e-11eb-8e1b-37a2de3f4405.png" />
 <img align="left" alt="MQTT" width="26px" src="https://user-images.githubusercontent.com/51737378/124351609-b2284a00-dc3e-11eb-9e6f-148c9adddc55.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
