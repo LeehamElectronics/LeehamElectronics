@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ldprice_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fldprice_&screen_name=ldprice_)
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m studtying to get my CCNA (Cisco Certified Networking Associate)
+- 👯 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar
 
