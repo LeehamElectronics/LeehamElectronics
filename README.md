@@ -3,6 +3,9 @@
 [![Website](https://img.shields.io/website?label=ldprice.com&style=for-the-badge&url=https%3A%2F%2Fldprice.com)](https://ldprice.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ldprice_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fldprice_&screen_name=ldprice_)
 
+### <img align="" alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=LeehamElectronics.LeehamElectronics" />
+
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
 - 🥅 2021 Goals: Contribute more to Open Source projects
