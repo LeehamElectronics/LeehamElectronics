@@ -54,12 +54,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCZNuvGzUp-kJsSQgOWCCjAA)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Leeham's GitHub Stats" src="https://github-readme-stats.ldprice.vercel.app/api?username=ldprice&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="Leeham's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeehamElectronics&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark" />
 
 [website]: https://ldprice.com/
 [twitter]: https://twitter.com/ldprice_
