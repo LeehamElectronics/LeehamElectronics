@@ -50,9 +50,7 @@
 ---
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
-- [Electrically Automated IoT Quad Bike](https://www.youtube.com/watch?v=ic49dhoIEfM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCZNuvGzUp-kJsSQgOWCCjAA)
