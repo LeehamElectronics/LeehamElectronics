@@ -51,6 +51,9 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [BSSC Systems Engineering: Automated IoT Quad Bike by Liam Price (demo 2)](https://www.youtube.com/watch?v=ic49dhoIEfM)
+- [Exploration Robot: (Arduino) Final Year 12 School Project VET Integrated Technologies](https://www.youtube.com/watch?v=0TiRYpMsIOc)
+- [BSSC Systems Engineering: Automated IoT Quad Bike by Liam Price (demo 1)](https://www.youtube.com/watch?v=KVIC-R4Q0LU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCZNuvGzUp-kJsSQgOWCCjAA)
