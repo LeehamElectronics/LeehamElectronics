@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-three-chi.vercel.app" alt="Liam Price Spotify Playing" width="350" />](https://open.spotify.com/user/fx362oguayrr0ktjmvvv399i5)
+[![Spotify](https://novatorem-three-chi.vercel.app/api/spotify)](https://open.spotify.com/user/fx362oguayrr0ktjmvvv399i5)
 
 ### Connect with me:
 
