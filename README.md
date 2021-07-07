@@ -6,10 +6,10 @@
 ### <img align="" alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=LeehamElectronics.LeehamElectronics" />
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything and actively procrastinating
 - 👯 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar
+- 🥅 2021 Goals: Create my own website for my two small businesses, Tutoring and Window Cleaning.
+- ⚡ Fun fact: I love to play guitar and automate stuff with Arduino / Espressif!
 
 ### Spotify Playing 🎧
 
