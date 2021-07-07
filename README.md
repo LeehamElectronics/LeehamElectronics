@@ -8,12 +8,12 @@
 
 - 🌱 I’m currently learning everything and actively procrastinating
 - 👯 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
-- 🥅 2021 Goals: Create my own website for my two small businesses, Tutoring and Window Cleaning.
-- ⚡ Fun fact: I love to play guitar and automate stuff with Arduino / Espressif!
+- 🥅 2021 Goals: Create my own website for my two small businesses; Tutoring and Window Cleaning.
+- ⚡ Fun fact: I love playing guitar and automating stuff with Arduino / Espressif!
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-ldprice.vercel.app/api/spotify-playing" alt="Liam Price Spotify Playing" width="350" />](https://open.spotify.com/user/fx362oguayrr0ktjmvvv399i5)
+[<img src="novatorem-three-chi.vercel.app" alt="Liam Price Spotify Playing" width="350" />](https://open.spotify.com/user/fx362oguayrr0ktjmvvv399i5)
 
 ### Connect with me:
 
