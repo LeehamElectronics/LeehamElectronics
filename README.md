@@ -70,5 +70,5 @@
 
 <p float="right">
 
-  <img src="https://user-images.githubusercontent.com/51737378/125736090-d1da5871-f29b-453a-bff2-3cb91ebccee1.jpg" width="330" />
+  <img src="https://user-images.githubusercontent.com/51737378/125736090-d1da5871-f29b-453a-bff2-3cb91ebccee1.jpg" width="320" />
 </p>
