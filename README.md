@@ -8,8 +8,14 @@
 
 - 🌱 I’m currently learning everything and actively procrastinating
 - 👯 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
-- 🥅 2021 Goals: Create my own website for my two small businesses; Tutoring and Window Cleaning.
-- ⚡ Fun fact: I love playing guitar and automating stuff with Arduino / Espressif!
+* 🥅 2021 Goals: 
+  * Create my own website for my two small businesses; LDPrice Tuition and LDPrice Cleaning.
+  * Pass the **CCNA 200-301** (Cisco) Exam.
+  * Rework the **Skynet MC** server and assocaited software *(look in my Github projects page...)*
+  * Finish uploading all my electrical, software and school work to the internet for other students to learn from. 
+  * Create a Discord community server to provide extra support and advice for students getting into *STEM* fields.
+- ⚡ Fun fact: I love playing guitar and automating stuff with Arduino, Pi, Espressif, Home Assistant and NodeRed.
+
 
 ### Spotify Playing 🎧
 
