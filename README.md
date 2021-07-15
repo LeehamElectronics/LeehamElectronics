@@ -69,5 +69,6 @@
 [linkedin]: https://www.linkedin.com/in/liamisprice/
 
 <p float="right">
-  <img src="https://user-images.githubusercontent.com/51737378/125735778-5643499b-1f8c-4908-82f6-e224008396e4.jpg" width="410" />
+
+  <img src="https://user-images.githubusercontent.com/51737378/125736090-d1da5871-f29b-453a-bff2-3cb91ebccee1.jpg" width="410" />
 </p>
