@@ -18,6 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="ldprice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ldprice | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="ldprice | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="ldprice | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ldprice | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -67,6 +68,7 @@
 [youtube]: https://www.youtube.com/channel/UCZNuvGzUp-kJsSQgOWCCjAA
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/liamisprice/
+[discord]: https://discord.gg/SM48CZhHbB
 
 <p float="right">
 
