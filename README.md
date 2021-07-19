@@ -6,8 +6,8 @@
 ### <img align="" alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=LeehamElectronics.LeehamElectronics" />
 
 
-- 🌱 I’m currently learning everything and actively procrastinating
-- 👯 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
+- 👀 I’m currently studying and trying to manage a small business on the side.
+- 💻 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
 * 🥅 2021 Goals: 
   * Create my own website for my two small businesses; LDPrice Tuition and LDPrice Cleaning.
   * Pass the **CCNA 200-301** (Cisco) Exam.
