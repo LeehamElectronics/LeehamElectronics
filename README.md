@@ -6,12 +6,12 @@
 ### <img align="" alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=LeehamElectronics.LeehamElectronics" />
 
 
-- 👀 I’m 18yrs old currently studying and trying to manage a small business on the side.
+- 👀 I’m a 18 year old student currently studying and trying to manage a small business on the side. I spend a lot of time working on some of my own open-source projects involving software development, computer networking, electrical engineering, IoT, home automation and so forth. Most of my work can be found in my GitHub repositories as well as all of my school projects from Year 9 through to my final Year 12 projects. When I'm not studying or developing my projects I work as a self employed Tutor for VCE students and a Window Cleaner throughout Victoria, Australia. Occasionally in my spare time I also play a bit of Minecraft, in particular, developing an upcoming [open-source Minecraft Server...](https://github.com/Skynet-MC) 
 - 💻 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
 * 🥅 2021 Goals: 
   * Create my own website for my two small businesses; LDPrice Tuition and LDPrice Cleaning.
-  * Pass the **CCNA 200-301** (Cisco) Exam.
-  * Rework the **Skynet MC** server and assocaited software *(look in my Github projects page...)*
+  * Pass the [**CCNA 200-301**](https://study-ccna.com/what-ccna/) (Cisco) Exam.
+  * Rework the [**Skynet MC**](https://github.com/Skynet-MC) server and assocaited software.
   * Finish uploading all my electrical, software and school work to the internet for other students to learn from. 
   * Create a Discord community server to provide support for some of my open-source projects as well as advice for students wanting to get into *STEM* fields.
 - ⚡ Fun fact: I love playing guitar and automating stuff with Arduino, Pi, Espressif, Home Assistant and NodeRed.
@@ -80,3 +80,5 @@
 
   <img src="https://user-images.githubusercontent.com/51737378/125736090-d1da5871-f29b-453a-bff2-3cb91ebccee1.jpg" width="320" />
 </p>
+
+- 🙏 Thanks for reading about me, feel free to check out my [website](https://ldprice.com) or my GitHub [repositories](https://github.com/LeehamElectronics?tab=repositories).
