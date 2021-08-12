@@ -6,14 +6,14 @@
 ### <img align="" alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=LeehamElectronics.LeehamElectronics" />
 
 
-- 👀 I’m currently studying and trying to manage a small business on the side.
+- 👀 I’m 18yrs old currently studying and trying to manage a small business on the side.
 - 💻 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
 * 🥅 2021 Goals: 
   * Create my own website for my two small businesses; LDPrice Tuition and LDPrice Cleaning.
   * Pass the **CCNA 200-301** (Cisco) Exam.
   * Rework the **Skynet MC** server and assocaited software *(look in my Github projects page...)*
   * Finish uploading all my electrical, software and school work to the internet for other students to learn from. 
-  * Create a Discord community server to provide extra support and advice for students getting into *STEM* fields.
+  * Create a Discord community server to provide support for some of my open-source projects as well as advice for students wanting to get into *STEM* fields.
 - ⚡ Fun fact: I love playing guitar and automating stuff with Arduino, Pi, Espressif, Home Assistant and NodeRed.
 
 
