@@ -72,7 +72,7 @@
 [website]: https://ldprice.com/
 [twitter]: https://twitter.com/ldprice_
 [youtube]: https://www.youtube.com/channel/UCZNuvGzUp-kJsSQgOWCCjAA
-[instagram]: https://instagram.com/
+[instagram]: https://www.instagram.com/ldprice_/
 [linkedin]: https://www.linkedin.com/in/liamisprice/
 [discord]: https://discord.gg/SM48CZhHbB
 
