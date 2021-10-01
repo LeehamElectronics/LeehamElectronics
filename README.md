@@ -7,12 +7,12 @@
 
 
 - 👀 I’m an 18-year-old student currently studying and overly passionate about electronics, automation, and other geeky stuff. I spend a lot of time working on some of my own open-source projects involving software development, computer networking, electrical engineering, IoT, home automation and so forth. Most of my work can be found in my GitHub repositories as well as all of my school projects from Year 9 through to my final Year 12 projects. When I'm not studying or developing my projects I work as a self-employed [Tutor](https://tuition.ldprice.com) for VCE students and a [Window Cleaner](https://cleaning.ldprice.com) throughout Victoria, Australia. Occasionally in my spare time I play a bit of Minecraft, in particular, developing an upcoming [open-source Minecraft Server...](https://github.com/Skynet-MC) 
-- 💻 I’m studying to get my CCNA cert (Cisco Certified Networking Associate)
+- 💻 I’m learning Java
 * 🥅 2021 Goals: 
   * Create my own website for my two small businesses; [LDPrice Tuition](https://tuition.ldprice.com) and [LDPrice Cleaning](https://cleaning.ldprice.com).
   * Pass the [**CCNA 200-301**](https://study-ccna.com/what-ccna/) (Cisco) Exam. **UPDATE:** Completed 🟢
   * Rework the [**Skynet MC**](https://github.com/Skynet-MC) server and associated software.
-  * Finish uploading all my electrical, software and schoolwork to the internet for other students to learn from. 
+  * Finish uploading all my electrical, software and schoolwork to the internet for other students to learn from. **UPDATE:** Completed 🟢
   * Create a Discord community server to provide support for some of my open-source projects as well as advice for students wanting to get into *STEM* fields.
 - ⚡ Fun fact: I love playing the guitar and automating stuff with Arduino, Pi, Espressif, Home Assistant and NodeRed.
 
