@@ -12,7 +12,7 @@
   * Create my own website for my two small businesses; [LDPrice Tuition](https://tuition.ldprice.com) and [LDPrice Cleaning](https://cleaning.ldprice.com).
   * Pass the [**CCNA 200-301**](https://study-ccna.com/what-ccna/) (Cisco) Exam. **UPDATE:** Completed 🟢
   * Rework the [**Skynet MC**](https://github.com/Skynet-MC) server and associated software.
-  * Finish uploading all my electrical, software and schoolwork to the internet for other students to learn from. **UPDATE:** Completed 🟢
+  * Upload all my electrical, software and schoolwork to GitHub for other students to learn from. **UPDATE:** Completed 🟢
   * Create a Discord community server to provide support for some of my open-source projects as well as advice for students wanting to get into *STEM* fields.
 - ⚡ Fun fact: I love playing the guitar and automating stuff with Arduino, Pi, Espressif, Home Assistant and NodeRed.
 
