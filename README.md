@@ -6,15 +6,8 @@
 ### <img align="" alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=LeehamElectronics.LeehamElectronics" />
 
 
-- 👀 I’m an 19-year-old student currently studying and overly passionate about electronics, automation, networking, and other stuff. Some of my work can be found in my GitHub repositories as well as all of my school projects from Year 9 through to my final Year 12 projects. When I'm not studying or developing my projects I work as a self-employed [Tutor](https://tuition.ldprice.com) for VCE students and a [Window Cleaner](https://cleaning.ldprice.com) throughout Victoria, Australia.
-- 💻 I’m learning Java still
-* 🥅 2021 Goals: 
-  * Create website for my two small businesses; [LDPrice Tuition](https://tuition.ldprice.com) and [LDPrice Cleaning](https://cleaning.ldprice.com).
-  * Pass the [**CCNA 200-301**](https://study-ccna.com/what-ccna/) (Cisco) Exam. Done 🟢
-  * Rework the [**Skynet MC**](https://github.com/Skynet-MC) server and associated software.
-  * Upload all my electrical, software and schoolwork to GitHub for other students to learn from. Mostly Done 🟢
-  * Create a Discord community server to provide support for some of my open-source projects as well as advice for students wanting to get into *STEM* fields.
-- ⚡ Fun fact: I love playing the guitar and automating stuff with Arduino, Pi, Espressif, Home Assistant and NodeRed.
+- I’m an 19-year-old student currently studying and overly passionate about electronics, automation, networking, and other stuff. Some of my work can be found in my GitHub repositories as well as all of my school projects from Year 9 through to my final Year 12 projects. When I'm not studying or developing my projects I work as a self-employed [Tutor](https://tuition.ldprice.com) for VCE students and a [Window Cleaner](https://cleaning.ldprice.com) throughout Victoria, Australia.
+
 
 ### Spotify Playing 🎧
 
