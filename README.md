@@ -8,11 +8,6 @@
 
 - I’m an 19-year-old student currently studying and overly passionate about electronics, automation, networking, and other stuff. Some of my work can be found in my GitHub repositories as well as all of my school projects from Year 9 through to my final Year 12 projects. When I'm not studying or developing my projects I work as a self-employed [Tutor](https://tuition.ldprice.com) for VCE students and a [Window Cleaner](https://cleaning.ldprice.com) throughout Victoria, Australia.
 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-three-chi.vercel.app/api/spotify)](https://open.spotify.com/user/fx362oguayrr0ktjmvvv399i5)
-
 ### Connect with me:
 
 [<img align="left" alt="ldprice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
